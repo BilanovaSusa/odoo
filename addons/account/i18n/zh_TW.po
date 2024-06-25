@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/odoo/odoo/addons/account/i18n/zh_TW.po
